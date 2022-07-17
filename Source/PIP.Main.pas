@@ -6,16 +6,20 @@ interface
 
 uses
   Classes,
-  SysUtils;
+  SysUtils,
+  {%H-}Math,
+  {%H-}PIP.Utils;
 
 procedure Run;
 
 implementation
 
 uses
-  PIP.Cases01_06;
+  PIP.Cases02_05;
 
 procedure Run;
+type
+  sets = set of char;
 begin
   Main;
 end;
