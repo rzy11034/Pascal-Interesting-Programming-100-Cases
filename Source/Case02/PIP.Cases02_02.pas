@@ -1,13 +1,13 @@
 ﻿unit PIP.Cases02_02;
 
-{$mode ObjFPC}{$H+}
+{$mode objfpc}{$H+}
+{$ModeSwitch unicodestrings}
 
 interface
 
 uses
   Classes,
   SysUtils,
-  PIP.Utils,
   DeepStar.Utils;
 
 procedure Main;

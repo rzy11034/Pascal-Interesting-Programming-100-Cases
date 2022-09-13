@@ -1,6 +1,7 @@
 ﻿unit PIP.Main;
 
 {$mode objfpc}{$H+}
+{$ModeSwitch unicodestrings}
 
 interface
 
@@ -8,7 +9,7 @@ uses
   Classes,
   SysUtils,
   {%H-}Math,
-  {%H-}PIP.Utils;
+  {%H-}DeepStar.Utils;
 
 procedure Run;
 
@@ -17,10 +18,14 @@ implementation
 uses
   PIP.Cases02_05;
 
-procedure Run;
-type
-  sets = set of char;
+procedure Test;
 begin
+  Exit;
+end;
+
+procedure Run;
+begin
+  Test;
   Main;
 end;
 

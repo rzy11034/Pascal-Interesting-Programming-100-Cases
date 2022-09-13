@@ -1,6 +1,7 @@
 ﻿unit PIP.Cases01_01;
 
 {$mode objfpc}{$H+}
+{$ModeSwitch unicodestrings}
 
 interface
 

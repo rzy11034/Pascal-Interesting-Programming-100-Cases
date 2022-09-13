@@ -1,6 +1,7 @@
 ﻿unit PIP.Cases01_10;
 
-{$mode ObjFPC}{$H+}
+{$mode objfpc}{$H+}
+{$ModeSwitch unicodestrings}
 
 interface
 
@@ -8,7 +9,6 @@ uses
   Classes,
   SysUtils,
   Math,
-  PIP.Utils,
   DeepStar.Utils,
   DeepStar.UString;
 
