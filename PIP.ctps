@@ -19,7 +19,6 @@
       <Unit>
         <Filename Value="Source\PIP.Main.pas"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="2"/>
         <WindowIndex Value="0"/>
         <CursorPos X="52" Y="13"/>
@@ -141,10 +140,11 @@
       <Unit>
         <Filename Value="Source\Case02\PIP.Cases02_05.pas"/>
         <IsPartOfProject Value="True"/>
-        <EditorIndex Value="-1"/>
+        <EditorIndex Value="3"/>
         <WindowIndex Value="0"/>
-        <CursorPos X="3" Y="19"/>
+        <CursorPos Y="3"/>
         <UsageCount Value="23"/>
+        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="Source\PIP.Utils.pas"/>
@@ -358,7 +358,7 @@
         <FRMtype Value="0"/>
         <EditorIndex Value="1"/>
         <WindowIndex Value="0"/>
-        <CursorPos X="33" Y="20"/>
+        <CursorPos X="25" Y="21"/>
         <SyntaxHighlighter Value="FreePascal"/>
         <UsageCount Value="10"/>
         <Loaded Value="True"/>
@@ -373,8 +373,18 @@
         <UsageCount Value="10"/>
         <DefaultSyntaxHighlighter Value="None"/>
       </Unit>
+      <Unit>
+        <Filename Value="Source\Case02\PIP.Cases02_06.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="3" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
     </Units>
-    <JumpHistory HistoryIndex="1">
+    <JumpHistory HistoryIndex="4">
       <Position>
         <Filename Value="Source\PIP.Main.pas"/>
         <Caret Line="22" Column="24" TopLine="4"/>
@@ -382,6 +392,18 @@
       <Position>
         <Filename Value="Source\PIP.Main.pas"/>
         <Caret Line="8" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case02\PIP.Cases02_05.pas"/>
+        <Caret Line="48" Column="8" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case02\PIP.Cases02_05.pas"/>
+        <Caret Line="37" Column="21" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case02\PIP.Cases02_05.pas"/>
+        <Caret Line="24" Column="24" TopLine="17"/>
       </Position>
     </JumpHistory>
     <RunParams>

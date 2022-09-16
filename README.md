@@ -18,3 +18,4 @@ Pascal趣味编程100例 <br>
   &emsp;&emsp;2.3 分糖果 <br>
   &emsp;&emsp;2.4 三色球问题 <br>
   &emsp;&emsp;2.5 出售金鱼 <br>
+  &emsp;&emsp;2.6 求车速 <br>

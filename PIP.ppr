@@ -25,7 +25,7 @@ uses
   PIP.Cases02_02,
   PIP.Cases02_03,
   PIP.Cases02_04,
-  PIP.Cases02_05;
+  PIP.Cases02_05, PIP.Cases02_06;
 
 begin
   try
