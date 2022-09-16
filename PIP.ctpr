@@ -55,7 +55,6 @@
     <Units>
       <Unit>
         <Filename Value="PIP.ppr"/>
-        <FRMtype Value="0"/>
         <IsPartOfProject Value="True"/>
       </Unit>
       <Unit>

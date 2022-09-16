@@ -16,7 +16,7 @@ procedure Run;
 implementation
 
 uses
-  PIP.Cases02_05;
+  PIP.Cases02_06;
 
 procedure Test;
 begin
