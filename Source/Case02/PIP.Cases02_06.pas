@@ -23,12 +23,12 @@ begin
   while true do
   begin
     t := 0;
-    k := 10000;
+    k := 100000;
     while k >= 10 do
     begin
       a[t] := (i mod k) div (k div 10);
       k := k div 10;
-      t+=1;
+      t += 1;
     end;
 
     if (a[0] = a[4]) and (a[1] = a[3]) then
@@ -37,6 +37,8 @@ begin
       WriteLnF('该车的速度为：%.2f', [(i - 95859) / 2]);
       Break;
     end;
+
+    i += 1;
   end;
 end;
 
