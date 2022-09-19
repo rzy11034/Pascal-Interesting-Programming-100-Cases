@@ -26,3 +26,7 @@ Pascal趣味编程100例 <br>
   &emsp;&emsp;2.11 换分币 <br>
 第3章 “各种”趣味整数 <br>
   &emsp;&emsp;3.1 完数 <br>
+  &emsp;&emsp;3.2 亲密数 <br>
+  &emsp;&emsp;3.3 自守数 <br>
+  &emsp;&emsp;3.4 回文数 <br>
+  &emsp;&emsp;3.4 回文数 <br>
