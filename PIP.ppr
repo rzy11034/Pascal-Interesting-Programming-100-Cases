@@ -11,7 +11,7 @@ uses
   PIP.Cases01_07, PIP.Cases01_08, PIP.Cases01_09, PIP.Cases01_10, PIP.Cases02_01, PIP.Cases02_02, PIP.Cases02_03, PIP.Cases02_04, PIP.Cases02_05,
   PIP.Cases02_06, PIP.Cases02_07, PIP.Cases02_08, PIP.Cases02_09, PIP.Cases02_10, PIP.Cases02_11, PIP.Cases03_01, PIP.Cases03_02, PIP.Cases03_03,
   PIP.Cases03_04, PIP.Cases03_05, PIP.Cases03_06, PIP.Cases03_07, PIP.Cases03_08, PIP.Cases03_09, PIP.Cases03_10, PIP.Cases04_01, PIP.Cases04_02,
-  PIP.Cases04_03;
+  PIP.Cases04_03, PIP.Cases04_04, PIP.Cases04_05, PIP.Cases04_06, PIP.Cases04_07, PIP.Cases04_08, PIP.Cases05_01, PIP.Cases05_02;
 
 begin
   try

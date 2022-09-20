@@ -16,7 +16,7 @@ Pascal趣味编程100例 <br>
   &emsp;&emsp;2.1 个人所得税问题 <br>
   &emsp;&emsp;2.2 存钱问题 <br>
   &emsp;&emsp;2.3 分糖果 <br>
-  &emsp;&emsp;2.4 三色球问题 <br>
+  &emsp;&emsp;&emsp;&emsp;4.5 列出真分数序列 <br>&emsp;&emsp;4.5 列出真分数序列 <br>2.4 三色球问题 <br>
   &emsp;&emsp;2.5 出售金鱼 <br>
   &emsp;&emsp;2.6 求车速 <br>
   &emsp;&emsp;2.7 爱因斯坦的数学题 <br>
@@ -39,3 +39,11 @@ Pascal趣味编程100例 <br>
   &emsp;&emsp;4.1 最大公约数 <br>
   &emsp;&emsp;4.2 最小公倍数 <br>
   &emsp;&emsp;4.3 歌星大奖赛 <br>
+  &emsp;&emsp;4.4 将真分数分解为埃及分数 <br>
+  &emsp;&emsp;4.5 列出真分数序列 <br>
+  &emsp;&emsp;4.6 多项式之和 <br>
+  &emsp;&emsp;4.7 分数比较 <br>
+  &emsp;&emsp;4.8 计算分数精确值 <br>
+第5章 趣味素数 <br>
+  &emsp;&emsp;5.1 素数 <br>
+  &emsp;&emsp;5.2 哥德巴赫猜想 <br>
