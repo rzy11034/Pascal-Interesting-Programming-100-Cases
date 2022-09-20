@@ -18,12 +18,12 @@ procedure Main;
 var
   m: TArr_int;
   n, i, t, Count: integer;
-  a, k: cardinal;
+  a, k, temp: cardinal;
 begin
   SetLength(m, 16);
   Count := 0;
 
-  WriteLn('No.    number    it''s square(palindrome)');
+  WriteLn('No.    number    it''s square (palindrome)');
 
   for n := 1 to 256 - 1 do
   begin
@@ -32,10 +32,11 @@ begin
     a := n * n;
 
     i := 0;
-    while a <> 0 do
+    temp:=a;
+    while temp <> 0 do
     begin
-      m[i] := a mod 10;
-      a := a div 10;
+      m[i] := temp mod 10;
+      temp := temp div 10;
 
       i += 1;
     end;

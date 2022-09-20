@@ -29,4 +29,13 @@ Pascal趣味编程100例 <br>
   &emsp;&emsp;3.2 亲密数 <br>
   &emsp;&emsp;3.3 自守数 <br>
   &emsp;&emsp;3.4 回文数 <br>
-  &emsp;&emsp;3.4 回文数 <br>
+  &emsp;&emsp;3.5 水仙花数 <br>
+  &emsp;&emsp;3.6 阿姆斯特朗数 <br>
+  &emsp;&emsp;3.7 高次方数的尾数 <br>
+  &emsp;&emsp;3.8 黑洞数 <br>
+  &emsp;&emsp;3.9 勾股数 <br>
+  &emsp;&emsp;3.10 不重复的3位数 <br>
+第4章 趣味分数 <br>
+  &emsp;&emsp;4.1 最大公约数 <br>
+  &emsp;&emsp;4.2 最小公倍数 <br>
+  &emsp;&emsp;4.3 歌星大奖赛 <br>
