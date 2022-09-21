@@ -1,4 +1,4 @@
-unit PIP.Cases05_01;
+﻿unit PIP.Cases05_01;
 
 {$mode objfpc}{$H+}
 {$ModeSwitch unicodestrings}
@@ -50,7 +50,7 @@ begin
     flag := true;
   end;
 
-  WriteLnF(NEW_LINE + 'The total is %d', [Count]);
+  WriteLnF(LineEnding + 'The total is %d', [Count]);
 end;
 
 end.

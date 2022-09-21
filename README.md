@@ -47,3 +47,14 @@ Pascal趣味编程100例 <br>
 第5章 趣味素数 <br>
   &emsp;&emsp;5.1 素数 <br>
   &emsp;&emsp;5.2 哥德巴赫猜想 <br>
+  &emsp;&emsp;5.3 要发就发 <br>
+  &emsp;&emsp;5.4 可逆素数 <br>
+  &emsp;&emsp;5.5 回文素数 <br>
+  &emsp;&emsp;5.6 孪生素数 <br>
+  &emsp;&emsp;5.7 梅森素数 <br>
+第6章 趣味逻辑推理  <br>
+  &emsp;&emsp;6.1 谁家孩子跑的最慢 <br>
+  &emsp;&emsp;6.2 新郎和新娘 <br>
+  &emsp;&emsp;6.3 谁在说谎 <br>
+  &emsp;&emsp;6.4 谁是窃贼 <br>
+  &emsp;&emsp;6.5 旅客国籍 <br>

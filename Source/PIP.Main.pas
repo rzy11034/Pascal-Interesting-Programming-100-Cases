@@ -1,6 +1,6 @@
 ﻿unit PIP.Main;
 
-{$mode objfpc}{$H+}
+{$mode objfpc}{$H+}{$J+}
 {$ModeSwitch unicodestrings}
 
 interface
@@ -16,7 +16,7 @@ procedure Run;
 implementation
 
 uses
-  PIP.Cases05_02;
+  PIP.Cases06_04;
 
 procedure Test;
 begin

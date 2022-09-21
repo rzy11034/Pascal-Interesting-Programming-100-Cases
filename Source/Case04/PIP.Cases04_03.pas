@@ -34,7 +34,7 @@ begin
     if int < min then min := int;
   end;
 
-  WriteLnF('Canceled max score:%d' + NEW_LINE + 'Canceled min score:%d',
+  WriteLnF('Canceled max score:%d' + LineEnding + 'Canceled min score:%d',
     [max, min]);
   WriteLnF('Average score:%d', [(sum - max - min) div 8]);
 end;

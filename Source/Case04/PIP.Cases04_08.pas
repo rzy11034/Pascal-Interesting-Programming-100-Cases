@@ -59,7 +59,7 @@ begin
         for j := 1 to i do
           Write(quotient[j]);
 
-        WriteLnF(NEW_LINE + #9'and, it is a infinite cyclic fraction from %d',
+        WriteLnF(LineEnding + #9'and, it is a infinite cyclic fraction from %d',
           [remainder[m]]);
         WriteLnF(#9'digit to %d digit after decimal point.', [i]);
 

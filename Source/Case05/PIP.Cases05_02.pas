@@ -21,13 +21,13 @@ begin
   if n = 2 then Exit(true);
   if n mod 2 = 0 then Exit(false);
 
-  i := 3;
+  i := 2;
   while i <= round(sqrt(n)) do
   begin
     if n mod i = 0 then
       Exit(false);
 
-    i += 2;
+    i += 1;
   end;
 
   Result := true;
@@ -37,7 +37,6 @@ procedure Main;
 var
   n, i: integer;
   ok: boolean;
-  str: string;
 begin
   ReadLn(n);
 

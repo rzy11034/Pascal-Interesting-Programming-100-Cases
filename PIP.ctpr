@@ -25,7 +25,7 @@
           </Target>
           <SearchPaths>
             <IncludeFiles Value="$(ProjOutDir)"/>
-            <OtherUnitFiles Value="Source;Source\Case01;Source\Case02;Source\Case03;Source\Case04;Source\Case05"/>
+            <OtherUnitFiles Value="Source;Source\Case01;Source\Case02;Source\Case03;Source\Case04;Source\Case05;Source\Case06"/>
             <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
           </SearchPaths>
           <CodeGeneration>
@@ -225,6 +225,46 @@
         <Filename Value="Source\Case05\PIP.Cases05_02.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit>
+      <Unit>
+        <Filename Value="Source\Case05\PIP.Cases05_03.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Case05\PIP.Cases05_04.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Case05\PIP.Cases05_05.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Case05\PIP.Cases05_06.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Case05\PIP.Cases05_07.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Case06\PIP.Cases06_01.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Case06\PIP.Cases06_02.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Case06\PIP.Cases06_03.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Case06\PIP.Cases06_04.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Case06\PIP.Cases06_05.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
     </Units>
   </ProjectOptions>
   <CompilerOptions>
@@ -235,7 +275,7 @@
     </Target>
     <SearchPaths>
       <IncludeFiles Value="$(ProjOutDir)"/>
-      <OtherUnitFiles Value="Source;Source\Case01;Source\Case02;Source\Case03;Source\Case04;Source\Case05"/>
+      <OtherUnitFiles Value="Source;Source\Case01;Source\Case02;Source\Case03;Source\Case04;Source\Case05;Source\Case06"/>
       <UnitOutputDirectory Value="lib\$(TargetCPU)-$(TargetOS)"/>
     </SearchPaths>
     <Parsing>
@@ -263,6 +303,11 @@
         <UseExternalDbgSyms Value="True"/>
       </Debugging>
     </Linking>
+    <Other>
+      <CompilerMessages>
+        <IgnoredMessages idx4104="True"/>
+      </CompilerMessages>
+    </Other>
   </CompilerOptions>
   <Debugging>
     <Exceptions>
