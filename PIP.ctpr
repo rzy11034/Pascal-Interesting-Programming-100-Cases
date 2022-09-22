@@ -265,6 +265,10 @@
         <Filename Value="Source\Case06\PIP.Cases06_05.pas"/>
         <IsPartOfProject Value="True"/>
       </Unit>
+      <Unit>
+        <Filename Value="Source\Case06\PIP.Cases06_06.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
     </Units>
   </ProjectOptions>
   <CompilerOptions>

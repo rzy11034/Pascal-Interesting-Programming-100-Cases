@@ -16,7 +16,7 @@ Pascal趣味编程100例 <br>
   &emsp;&emsp;2.1 个人所得税问题 <br>
   &emsp;&emsp;2.2 存钱问题 <br>
   &emsp;&emsp;2.3 分糖果 <br>
-  &emsp;&emsp;&emsp;&emsp;4.5 列出真分数序列 <br>&emsp;&emsp;4.5 列出真分数序列 <br>2.4 三色球问题 <br>
+  &emsp;&emsp;2.4 三色球问题 <br>
   &emsp;&emsp;2.5 出售金鱼 <br>
   &emsp;&emsp;2.6 求车速 <br>
   &emsp;&emsp;2.7 爱因斯坦的数学题 <br>
@@ -58,3 +58,4 @@ Pascal趣味编程100例 <br>
   &emsp;&emsp;6.3 谁在说谎 <br>
   &emsp;&emsp;6.4 谁是窃贼 <br>
   &emsp;&emsp;6.5 旅客国籍 <br>
+  &emsp;&emsp;6.6 委派任务 <br>

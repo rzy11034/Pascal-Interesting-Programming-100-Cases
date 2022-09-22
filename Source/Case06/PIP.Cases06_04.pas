@@ -7,8 +7,7 @@ interface
 
 uses
   Classes,
-  SysUtils,
-  DeepStar.Utils;
+  SysUtils;
 
 procedure Main;
 
