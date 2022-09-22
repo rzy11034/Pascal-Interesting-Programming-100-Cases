@@ -59,3 +59,7 @@ Pascal趣味编程100例 <br>
   &emsp;&emsp;6.4 谁是窃贼 <br>
   &emsp;&emsp;6.5 旅客国籍 <br>
   &emsp;&emsp;6.6 委派任务 <br>
+  &emsp;&emsp;6.7 谜语博士的难题 <br>
+  &emsp;&emsp;6.8 黑与白 <br>
+第7章 趣味游戏 <br>
+  &emsp;&emsp;7.1 人机猜数 <br>

@@ -13,7 +13,7 @@ uses
   PIP.Cases03_04, PIP.Cases03_05, PIP.Cases03_06, PIP.Cases03_07, PIP.Cases03_08, PIP.Cases03_09, PIP.Cases03_10, PIP.Cases04_01, PIP.Cases04_02,
   PIP.Cases04_03, PIP.Cases04_04, PIP.Cases04_05, PIP.Cases04_06, PIP.Cases04_07, PIP.Cases04_08, PIP.Cases05_01, PIP.Cases05_02, PIP.Cases05_03,
   PIP.Cases05_04, PIP.Cases05_05, PIP.Cases05_06, PIP.Cases05_07, PIP.Cases06_01, PIP.Cases06_02, PIP.Cases06_03, PIP.Cases06_04, PIP.Cases06_05,
-  PIP.Cases06_06;
+  PIP.Cases06_06, PIP.Cases06_07, PIP.Cases06_08, PIP.Cases07_01;
 
 begin
   try

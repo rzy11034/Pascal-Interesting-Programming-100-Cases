@@ -19,7 +19,7 @@
         <IsPartOfProject Value="True"/>
         <EditorIndex Value="2"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="5"/>
+        <TopLine Value="7"/>
         <CursorPos X="17" Y="19"/>
         <UsageCount Value="200"/>
         <Loaded Value="True"/>
@@ -118,7 +118,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="31" Y="4"/>
-        <UsageCount Value="167"/>
+        <UsageCount Value="192"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case02\PIP.Cases02_03.pas"/>
@@ -126,7 +126,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="35" Y="4"/>
-        <UsageCount Value="71"/>
+        <UsageCount Value="96"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case02\PIP.Cases02_04.pas"/>
@@ -134,7 +134,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="35" Y="4"/>
-        <UsageCount Value="69"/>
+        <UsageCount Value="94"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case02\PIP.Cases02_05.pas"/>
@@ -142,7 +142,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos Y="3"/>
-        <UsageCount Value="68"/>
+        <UsageCount Value="93"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case02\PIP.Cases02_06.pas"/>
@@ -150,7 +150,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="18" Y="11"/>
-        <UsageCount Value="65"/>
+        <UsageCount Value="90"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case02\PIP.Cases02_07.pas"/>
@@ -159,7 +159,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="16"/>
         <CursorPos X="36" Y="21"/>
-        <UsageCount Value="61"/>
+        <UsageCount Value="86"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case02\PIP.Cases02_08.pas"/>
@@ -167,7 +167,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="18" Y="11"/>
-        <UsageCount Value="60"/>
+        <UsageCount Value="85"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case02\PIP.Cases02_09.pas"/>
@@ -175,7 +175,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="25" Y="19"/>
-        <UsageCount Value="58"/>
+        <UsageCount Value="83"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case02\PIP.Cases02_10.pas"/>
@@ -184,7 +184,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="4"/>
         <CursorPos X="31" Y="29"/>
-        <UsageCount Value="57"/>
+        <UsageCount Value="82"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case02\PIP.Cases02_11.pas"/>
@@ -192,7 +192,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="21" Y="11"/>
-        <UsageCount Value="57"/>
+        <UsageCount Value="82"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case03\PIP.Cases03_01.pas"/>
@@ -200,7 +200,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="22" Y="11"/>
-        <UsageCount Value="55"/>
+        <UsageCount Value="80"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case03\PIP.Cases03_02.pas"/>
@@ -208,7 +208,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="21" Y="11"/>
-        <UsageCount Value="55"/>
+        <UsageCount Value="80"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case03\PIP.Cases03_03.pas"/>
@@ -216,7 +216,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="24" Y="11"/>
-        <UsageCount Value="54"/>
+        <UsageCount Value="79"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case03\PIP.Cases03_04.pas"/>
@@ -224,7 +224,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="24" Y="11"/>
-        <UsageCount Value="52"/>
+        <UsageCount Value="77"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case03\PIP.Cases03_05.pas"/>
@@ -232,7 +232,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="21" Y="12"/>
-        <UsageCount Value="50"/>
+        <UsageCount Value="75"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case03\PIP.Cases03_06.pas"/>
@@ -240,7 +240,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="28" Y="12"/>
-        <UsageCount Value="49"/>
+        <UsageCount Value="74"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case03\PIP.Cases03_07.pas"/>
@@ -248,7 +248,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="24" Y="11"/>
-        <UsageCount Value="48"/>
+        <UsageCount Value="73"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case03\PIP.Cases03_08.pas"/>
@@ -256,7 +256,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="21" Y="11"/>
-        <UsageCount Value="47"/>
+        <UsageCount Value="72"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case03\PIP.Cases03_09.pas"/>
@@ -264,7 +264,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="18" Y="12"/>
-        <UsageCount Value="44"/>
+        <UsageCount Value="69"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case03\PIP.Cases03_10.pas"/>
@@ -272,7 +272,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="21" Y="11"/>
-        <UsageCount Value="43"/>
+        <UsageCount Value="68"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case04\PIP.Cases04_01.pas"/>
@@ -280,7 +280,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="56" Y="32"/>
-        <UsageCount Value="43"/>
+        <UsageCount Value="68"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case04\PIP.Cases04_02.pas"/>
@@ -288,7 +288,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="21" Y="11"/>
-        <UsageCount Value="42"/>
+        <UsageCount Value="67"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case04\PIP.Cases04_03.pas"/>
@@ -297,7 +297,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="16"/>
         <CursorPos X="48" Y="37"/>
-        <UsageCount Value="42"/>
+        <UsageCount Value="67"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case04\PIP.Cases04_04.pas"/>
@@ -305,7 +305,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="36" Y="11"/>
-        <UsageCount Value="40"/>
+        <UsageCount Value="65"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case04\PIP.Cases04_05.pas"/>
@@ -313,7 +313,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="22" Y="11"/>
-        <UsageCount Value="38"/>
+        <UsageCount Value="63"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case04\PIP.Cases04_06.pas"/>
@@ -321,7 +321,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="20" Y="10"/>
-        <UsageCount Value="37"/>
+        <UsageCount Value="62"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case04\PIP.Cases04_07.pas"/>
@@ -329,7 +329,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="27" Y="12"/>
-        <UsageCount Value="37"/>
+        <UsageCount Value="62"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case04\PIP.Cases04_08.pas"/>
@@ -338,7 +338,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="41"/>
         <CursorPos X="28" Y="62"/>
-        <UsageCount Value="36"/>
+        <UsageCount Value="61"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case05\PIP.Cases05_01.pas"/>
@@ -347,7 +347,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="33"/>
         <CursorPos X="47" Y="48"/>
-        <UsageCount Value="34"/>
+        <UsageCount Value="59"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case05\PIP.Cases05_02.pas"/>
@@ -355,7 +355,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="22" Y="34"/>
-        <UsageCount Value="33"/>
+        <UsageCount Value="58"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case05\PIP.Cases05_03.pas"/>
@@ -363,7 +363,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="22" Y="12"/>
-        <UsageCount Value="32"/>
+        <UsageCount Value="57"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case05\PIP.Cases05_04.pas"/>
@@ -372,7 +372,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="10"/>
         <CursorPos X="59" Y="42"/>
-        <UsageCount Value="30"/>
+        <UsageCount Value="55"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case05\PIP.Cases05_05.pas"/>
@@ -381,7 +381,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="4"/>
         <CursorPos X="15" Y="40"/>
-        <UsageCount Value="30"/>
+        <UsageCount Value="55"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case05\PIP.Cases05_06.pas"/>
@@ -389,7 +389,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos Y="12"/>
-        <UsageCount Value="30"/>
+        <UsageCount Value="55"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case05\PIP.Cases05_07.pas"/>
@@ -397,7 +397,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="23" Y="40"/>
-        <UsageCount Value="29"/>
+        <UsageCount Value="54"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case06\PIP.Cases06_01.pas"/>
@@ -405,7 +405,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="21" Y="10"/>
-        <UsageCount Value="29"/>
+        <UsageCount Value="54"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case06\PIP.Cases06_02.pas"/>
@@ -414,7 +414,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="7"/>
         <CursorPos X="20" Y="36"/>
-        <UsageCount Value="28"/>
+        <UsageCount Value="53"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case06\PIP.Cases06_03.pas"/>
@@ -422,7 +422,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="54" Y="7"/>
-        <UsageCount Value="28"/>
+        <UsageCount Value="53"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case06\PIP.Cases06_04.pas"/>
@@ -430,7 +430,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="21" Y="10"/>
-        <UsageCount Value="26"/>
+        <UsageCount Value="51"/>
       </Unit>
       <Unit>
         <Filename Value="Source\Case06\PIP.Cases06_05.pas"/>
@@ -439,21 +439,29 @@
         <WindowIndex Value="0"/>
         <TopLine Value="48"/>
         <CursorPos X="17" Y="63"/>
-        <UsageCount Value="25"/>
+        <UsageCount Value="50"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Case06\PIP.Cases06_06.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="25" Y="11"/>
+        <UsageCount Value="48"/>
       </Unit>
       <Unit>
         <Filename Value="Source\PIP.Utils.pas"/>
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="37" Y="4"/>
-        <UsageCount Value="173"/>
+        <UsageCount Value="170"/>
       </Unit>
       <Unit>
         <Filename Value="目录.txt"/>
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <SyntaxHighlighter Value="PO"/>
-        <UsageCount Value="173"/>
+        <UsageCount Value="170"/>
         <DefaultSyntaxHighlighter Value="None"/>
       </Unit>
       <Unit>
@@ -462,14 +470,14 @@
         <WindowIndex Value="0"/>
         <TopLine Value="13"/>
         <CursorPos X="43" Y="27"/>
-        <UsageCount Value="7"/>
+        <UsageCount Value="4"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\packages\rtl-objpas\src\inc\dateutils.pp"/>
         <UnitName Value="DateUtils"/>
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
-        <UsageCount Value="7"/>
+        <UsageCount Value="4"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\packages\rtl-objpas\src\inc\dateutil.inc"/>
@@ -477,7 +485,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="506"/>
         <CursorPos X="41" Y="517"/>
-        <UsageCount Value="7"/>
+        <UsageCount Value="4"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\datih.inc"/>
@@ -485,7 +493,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="120"/>
         <CursorPos X="10" Y="134"/>
-        <UsageCount Value="7"/>
+        <UsageCount Value="4"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\dati.inc"/>
@@ -493,7 +501,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="318"/>
         <CursorPos X="3" Y="326"/>
-        <UsageCount Value="7"/>
+        <UsageCount Value="4"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\systemh.inc"/>
@@ -501,7 +509,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="1431"/>
         <CursorPos X="11" Y="1448"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="7"/>
       </Unit>
       <Unit>
         <Filename Value="..\DeepStar-Lib\Typhon\Package\Source\Utils\DeepStar.Utils.pas"/>
@@ -509,7 +517,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="190"/>
         <CursorPos X="25" Y="208"/>
-        <UsageCount Value="17"/>
+        <UsageCount Value="14"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\sysutilh.inc"/>
@@ -517,14 +525,14 @@
         <WindowIndex Value="0"/>
         <TopLine Value="234"/>
         <CursorPos X="18" Y="269"/>
-        <UsageCount Value="7"/>
+        <UsageCount Value="4"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\sysutils.inc"/>
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="3" Y="821"/>
-        <UsageCount Value="7"/>
+        <UsageCount Value="4"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\classes\classesh.inc"/>
@@ -532,7 +540,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="2467"/>
         <CursorPos X="10" Y="2481"/>
-        <UsageCount Value="7"/>
+        <UsageCount Value="4"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\character.pas"/>
@@ -540,7 +548,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="176"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="7"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\packages\rtl-objpas\src\inc\strutils.pp"/>
@@ -548,7 +556,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="298"/>
-        <UsageCount Value="7"/>
+        <UsageCount Value="4"/>
       </Unit>
       <Unit>
         <Filename Value="..\DeepStar-Lib\Typhon\Package\Source\Utils\DeepStar.Math.pas"/>
@@ -556,7 +564,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="68"/>
         <CursorPos X="22" Y="103"/>
-        <UsageCount Value="11"/>
+        <UsageCount Value="8"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\math.pp"/>
@@ -565,7 +573,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="1151"/>
         <CursorPos X="36" Y="1171"/>
-        <UsageCount Value="9"/>
+        <UsageCount Value="6"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\inc\mathh.inc"/>
@@ -573,7 +581,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="34"/>
         <CursorPos X="60" Y="52"/>
-        <UsageCount Value="7"/>
+        <UsageCount Value="4"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\packages\fcl-stl\src\gset.pp"/>
@@ -581,42 +589,42 @@
         <WindowIndex Value="0"/>
         <TopLine Value="39"/>
         <CursorPos X="29" Y="328"/>
-        <UsageCount Value="9"/>
+        <UsageCount Value="6"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\packages\fcl-stl\src\gutil.pp"/>
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="13"/>
-        <UsageCount Value="9"/>
+        <UsageCount Value="6"/>
       </Unit>
       <Unit>
         <Filename Value="..\DeepStar-Lib\Typhon\Package\Source\DSA\Hash\DeepStar.DSA.Hash.HashMap.pas"/>
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="9"/>
-        <UsageCount Value="9"/>
+        <UsageCount Value="6"/>
       </Unit>
       <Unit>
         <Filename Value="..\DeepStar-Lib\Typhon\Package\Source\DSA\Hash\DeepStar.DSA.Hash.HashSet.pas"/>
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="115"/>
-        <UsageCount Value="9"/>
+        <UsageCount Value="6"/>
       </Unit>
       <Unit>
         <Filename Value="..\DeepStar-Lib\Typhon\Package\Source\DSA\Tree\DeepStar.DSA.Tree.RBTree.pas"/>
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="103"/>
-        <UsageCount Value="9"/>
+        <UsageCount Value="6"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\typhon\components\pl_DMath\source\types.inc"/>
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="253"/>
-        <UsageCount Value="6"/>
+        <UsageCount Value="3"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\packages\rtl-extra\src\inc\sortalgs.pp"/>
@@ -625,16 +633,16 @@
         <WindowIndex Value="0"/>
         <TopLine Value="43"/>
         <CursorPos X="20" Y="144"/>
-        <UsageCount Value="6"/>
+        <UsageCount Value="3"/>
       </Unit>
       <Unit>
         <Filename Value="README.md"/>
         <EditorIndex Value="1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="40"/>
-        <CursorPos X="32" Y="61"/>
+        <CursorPos X="3" Y="65"/>
         <SyntaxHighlighter Value="Delphi"/>
-        <UsageCount Value="32"/>
+        <UsageCount Value="45"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="None"/>
       </Unit>
@@ -643,7 +651,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="15" Y="5"/>
-        <UsageCount Value="8"/>
+        <UsageCount Value="5"/>
         <DefaultSyntaxHighlighter Value="None"/>
       </Unit>
       <Unit>
@@ -652,7 +660,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="7"/>
-        <UsageCount Value="8"/>
+        <UsageCount Value="5"/>
       </Unit>
       <Unit>
         <Filename Value="..\..\..\..\..\usr\local\codetyphon\fpcsrc\rtl\inc\systemh.inc"/>
@@ -661,15 +669,14 @@
         <WindowIndex Value="0"/>
         <TopLine Value="92"/>
         <CursorPos X="24" Y="112"/>
-        <UsageCount Value="8"/>
+        <UsageCount Value="5"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\syshelph.inc"/>
         <FRMtype Value="0"/>
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="163"/>
-        <CursorPos X="3" Y="66"/>
+        <CursorPos X="3" Y="6"/>
         <UsageCount Value="10"/>
       </Unit>
       <Unit>
@@ -679,7 +686,7 @@
         <WindowIndex Value="0"/>
         <TopLine Value="461"/>
         <CursorPos X="3" Y="466"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="7"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\win\syswinh.inc"/>
@@ -687,7 +694,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <CursorPos X="22" Y="38"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="7"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\win\syswin.inc"/>
@@ -695,7 +702,7 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="58"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="7"/>
       </Unit>
       <Unit>
         <Filename Value="C:\codetyphon\fpcsrc\rtl\linux\system.pp"/>
@@ -704,48 +711,167 @@
         <EditorIndex Value="-1"/>
         <WindowIndex Value="0"/>
         <TopLine Value="160"/>
+        <UsageCount Value="7"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Case06\PIP.Cases06_07.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="41"/>
+        <CursorPos X="26" Y="74"/>
+        <UsageCount Value="45"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\sysutils\syshelpo.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="34"/>
+        <CursorPos X="3" Y="37"/>
         <UsageCount Value="10"/>
       </Unit>
       <Unit>
-        <Filename Value="Source\Case06\PIP.Cases06_06.pas"/>
+        <Filename Value="Source\Case06\PIP.Cases06_08.pas"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="3"/>
         <WindowIndex Value="0"/>
-        <TopLine Value="17"/>
-        <CursorPos X="76" Y="31"/>
+        <CursorPos X="22" Y="11"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="63"/>
+        <CursorPos X="43" Y="30"/>
         <UsageCount Value="23"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="6">
+    <JumpHistory HistoryIndex="29">
       <Position>
-        <Filename Value="Source\PIP.Main.pas"/>
-        <Caret Line="26" Column="11" TopLine="8"/>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="54" TopLine="49"/>
       </Position>
       <Position>
-        <Filename Value="Source\PIP.Main.pas"/>
-        <Caret Line="25" TopLine="5"/>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="56" TopLine="49"/>
       </Position>
       <Position>
-        <Filename Value="Source\PIP.Main.pas"/>
-        <Caret Line="26" Column="11" TopLine="7"/>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="54" TopLine="49"/>
       </Position>
       <Position>
-        <Filename Value="Source\Case06\PIP.Cases06_06.pas"/>
-        <Caret Line="36" Column="17"/>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="56" TopLine="49"/>
       </Position>
       <Position>
-        <Filename Value="Source\Case06\PIP.Cases06_06.pas"/>
-        <Caret Line="34" Column="17" TopLine="7"/>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="54" TopLine="49"/>
       </Position>
       <Position>
-        <Filename Value="Source\Case06\PIP.Cases06_06.pas"/>
-        <Caret Line="37" Column="87" TopLine="13"/>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="56" TopLine="49"/>
       </Position>
       <Position>
-        <Filename Value="Source\Case06\PIP.Cases06_06.pas"/>
-        <Caret Line="38" Column="51" TopLine="17"/>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="58" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="59" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="61" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="62" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="54" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="56" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="54" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="52" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="54" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="56" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="58" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="59" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="61" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="54" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="56" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="54" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="56" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="54" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="56" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="54" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="52" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="59" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="61" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="Source\Case07\PIP.Cases07_01.pas"/>
+        <Caret Line="54" TopLine="46"/>
       </Position>
     </JumpHistory>
     <RunParams>
@@ -756,13 +882,13 @@
   <Debugging>
     <Watches>
       <Item ClassAutoCast="True">
-        <Expression Value="a"/>
+        <Expression Value="a[i]"/>
       </Item>
       <Item ClassAutoCast="True">
-        <Expression Value="a[0, 1] + a[0, 2] + a[0, 3] + a[0, 4] + a[0, 5] + a[0, 6]"/>
+        <Expression Value="b[j]"/>
       </Item>
       <Item ClassAutoCast="True">
-        <Expression Value="a[j, i]"/>
+        <Expression Value="visited[i]"/>
       </Item>
     </Watches>
   </Debugging>
