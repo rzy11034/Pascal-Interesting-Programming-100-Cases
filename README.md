@@ -63,3 +63,7 @@ Pascal趣味编程100例 <br>
   &emsp;&emsp;6.8 黑与白 <br>
 第7章 趣味游戏 <br>
   &emsp;&emsp;7.1 人机猜数 <br>
+  &emsp;&emsp;7.2 搬山游虾 <br>
+  &emsp;&emsp;7.3 抢30 <br>
+  &emsp;&emsp;7.4 黑白子交换 <br>
+  &emsp;&emsp;7.5 自动发牌 <br>
