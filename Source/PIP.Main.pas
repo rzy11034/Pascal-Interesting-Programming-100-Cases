@@ -16,17 +16,20 @@ procedure Run;
 implementation
 
 uses
-  PIP.Cases07_05;
+  PIP.Cases07_04;
 
 procedure Test;
 var
   i: Integer;
   s:string;
   a:TArr2D_int;
+  c:char;
 begin
-  SetLength(a, 10, 10);
-  s:=ord('♠').ToHexString;
-  Write('♠♣♥♦');
+  //SetLength(a, 10, 10);
+  //c:= '♠';
+  //s:=ord(c).ToHexString;
+  ////'♠♣♥♦'
+  //Write(c);
   Exit;
 end;
 

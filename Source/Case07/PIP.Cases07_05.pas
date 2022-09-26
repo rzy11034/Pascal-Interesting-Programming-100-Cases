@@ -41,7 +41,8 @@ begin
   WriteLn;
 end;
 
-procedure Main;
+{$REGION 'The book the original case'}
+procedure Original_Case;
 var
   n: TArr_chr;
   a, b1, b2, b3, b4: TArr_int;
@@ -111,6 +112,12 @@ begin
   P(b2, n);
   P(b3, n);
   P(b4, n);
+end;
+{$ENDREGION}
+
+procedure Main;
+begin
+
 end;
 
 end.
