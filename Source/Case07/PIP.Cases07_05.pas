@@ -14,6 +14,8 @@ procedure Main;
 
 implementation
 
+
+{$REGION 'The book the original case'}
 procedure P(b: TArr_int; n: TArr_chr);
 var
   i: integer;
@@ -41,7 +43,6 @@ begin
   WriteLn;
 end;
 
-{$REGION 'The book the original case'}
 procedure Original_Case;
 var
   n: TArr_chr;
@@ -113,11 +114,11 @@ begin
   P(b3, n);
   P(b4, n);
 end;
+
 {$ENDREGION}
 
 procedure Main;
 begin
-
 end;
 
 end.

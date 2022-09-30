@@ -21,9 +21,8 @@ procedure Print(a: TArr_int);
 var
   i: integer;
 begin
-  WriteLnF('No. %2d：...........', [number]);
+  WriteF('No. %2d：', [number]);
   number += 1;
-  WriteLn(' ');
 
   for i := 0 to 6 do
     WriteF(' | %s', [
@@ -116,8 +115,8 @@ end;
 
 procedure Main;
 begin
-  Original_Case;
-  //Solution;
+  //Original_Case;
+  Solution;
 end;
 
 end.
