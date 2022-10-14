@@ -32,7 +32,7 @@ begin
     a := n * n;
 
     i := 0;
-    temp:=a;
+    temp := a;
     while temp <> 0 do
     begin
       m[i] := temp mod 10;

@@ -38,7 +38,7 @@ begin
     end;
   end;
 
-  WriteLnF('The total number is %d.', [Count]  );
+  WriteLnF('The total number is %d.', [Count]);
 end;
 
 end.

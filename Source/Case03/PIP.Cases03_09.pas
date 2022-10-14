@@ -19,7 +19,7 @@ procedure Main;
 var
   a, b, c, Count: integer;
 begin
-  count:=0;
+  Count := 0;
 
   WriteLn('100以内的勾股数有：');
   WriteLn('   a    b    c     a    b    c     a    b    c     a    b    c');

@@ -21,7 +21,7 @@ var
 begin
   flag := false;
 
-  i:=23;
+  i := 23;
   while flag = false do
   begin
     j := 1; x := i;

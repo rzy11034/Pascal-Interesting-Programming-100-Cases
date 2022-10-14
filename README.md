@@ -67,3 +67,49 @@ Pascal趣味编程100例 <br>
   &emsp;&emsp;7.3 抢30 <br>
   &emsp;&emsp;7.4 黑白子交换 <br>
   &emsp;&emsp;7.5 自动发牌 <br>
+  &emsp;&emsp;7.6 常胜将军 <br>
+  &emsp;&emsp;7.7 24点 <br>
+  &emsp;&emsp;7.8 掷骰子 <br>
+第8章 趣味数组 <br>
+  &emsp;&emsp;8.1 狼追兔子 <br>
+  &emsp;&emsp;8.2 选美比赛 <br>
+  &emsp;&emsp;8.3 邮票组合 <br>
+  &emsp;&emsp;8.4 平分7筐鱼 <br>
+  &emsp;&emsp;8.5 农夫过河 <br>
+  &emsp;&emsp;8.6 矩阵转置 <br>
+  &emsp;&emsp;8.7 魔方阵 <br>
+  &emsp;&emsp;8.8 马踏棋盘 <br>
+  &emsp;&emsp;8.9 删除 “*” 号 <br>
+  &emsp;&emsp;8.10 指定位置插入字符 <br>
+第9章 趣味函数递归 <br>
+  &emsp;&emsp;9.1 递归解决年龄问题 <br>
+  &emsp;&emsp;9.2 递归解决分鱼问题 <br>
+  &emsp;&emsp;9.3 汉诺塔问题 <br>
+  &emsp;&emsp;9.4 猴子吃桃 <br>
+  &emsp;&emsp;9.5 杨辉三角形 <br>
+  &emsp;&emsp;9.6 卡布列克常数 <br>
+  &emsp;&emsp;9.7 逆序输出数字 <br>
+第10章 定理与猜想 <br>
+  &emsp;&emsp;10.1 四方定理 <br>
+  &emsp;&emsp;10.2 角谷猜想 <br>
+  &emsp;&emsp;10.3 π的近似值 <br>
+  &emsp;&emsp;10.4 尼科彻斯定理 <br>
+  &emsp;&emsp;10.5 奇数平方的有趣性质 <br>
+  &emsp;&emsp;10.6 回文数的形成 <br>
+第11章 趣味图形 <br>
+  &emsp;&emsp;11.1 绘制余弦曲线 <br>
+  &emsp;&emsp;11.2 绘制空心圆 <br>
+  &emsp;&emsp;11.3 绘制空心菱形 <br>
+  &emsp;&emsp;11.4 画直线 <br>
+  &emsp;&emsp;11.5 画圆和圆孤 <br>
+  &emsp;&emsp;11.6 画彩色图形 <br>
+  &emsp;&emsp;11.7 填充彩色图形 <br>
+  &emsp;&emsp;11.8 图形模式下显示字符 <br>
+第12章 趣味图形 <br>
+  &emsp;&emsp;12.1 双色球 <br>
+  &emsp;&emsp;12.2 填表格 <br>
+  &emsp;&emsp;12.3 求出符合要求的素数 <br>
+  &emsp;&emsp;12.4 约瑟夫环 <br>
+  &emsp;&emsp;12.5 数据加密问题 <br>
+  &emsp;&emsp;12.6 三色旗 <br>
+  &emsp;&emsp;12.7 统计学生成绩 <br>

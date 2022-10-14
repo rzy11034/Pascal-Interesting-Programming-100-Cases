@@ -32,7 +32,7 @@ end;
 
 procedure Print(arr: TArr_int);
 var
-  i: Integer;
+  i: integer;
 begin
   for i := 0 to High(arr) do
     WriteF('%5d', [arr[i]]);

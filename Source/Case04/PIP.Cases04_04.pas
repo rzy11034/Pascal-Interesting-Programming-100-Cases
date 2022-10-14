@@ -8,7 +8,8 @@ interface
 uses
   Classes,
   SysUtils,
-  DeepStar.Utils, DeepStar.UString;
+  DeepStar.Utils,
+  DeepStar.UString;
 
 procedure Main;
 
@@ -17,7 +18,7 @@ implementation
 procedure Main;
 var
   a, b, c: integer;
-  str:string;
+  str: string;
   strs: TArr_str;
 begin
   Write('Please enter a optional fraction(a/b):');
@@ -30,15 +31,15 @@ begin
   begin
     if b mod a <> 0 then
     begin
-      c := b div a +1;
+      c := b div a + 1;
     end
     else
     begin
       c := b div a;
-      a:=1;
+      a := 1;
     end;
 
-    if a=1 then
+    if a = 1 then
     begin
       WriteLnF('1/%d', [c]);
       Break;
@@ -47,10 +48,10 @@ begin
     begin
       WriteF('1/%d + ', [c]);
     end;
-    
-    a := a*c-b;
-    b:=b*c;
-    if (a=3) and (b mod 2=0) then
+
+    a := a * c - b;
+    b := b * c;
+    if (a = 3) and (b mod 2 = 0) then
     begin
       WriteLnF('1/%d + 1/%d', [b div 2, b]);
       Break;

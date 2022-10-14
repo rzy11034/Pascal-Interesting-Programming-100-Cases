@@ -1,6 +1,6 @@
 ﻿unit PIP.Main;
 
-{$mode objfpc}{$H+}{$J+}
+{$mode objfpc}{$H+}
 {$ModeSwitch unicodestrings}
 
 interface
@@ -9,27 +9,18 @@ uses
   Classes,
   SysUtils,
   {%H-}Math,
-  {%H-}DeepStar.Utils;
+  {%H-}DeepStar.Utils,
+  {%H-}DeepStar.UString;
 
 procedure Run;
 
 implementation
 
 uses
-  PIP.Cases07_04;
+  PIP.Cases12_07;
 
 procedure Test;
-var
-  i: Integer;
-  s:string;
-  a:TArr2D_int;
-  c:char;
 begin
-  //SetLength(a, 10, 10);
-  //c:= '♠';
-  //s:=ord(c).ToHexString;
-  ////'♠♣♥♦'
-  //Write(c);
   Exit;
 end;
 
