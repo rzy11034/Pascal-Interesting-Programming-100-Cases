@@ -19,8 +19,8 @@ type
   TPlayer = record
     num, score, rand: integer;
     constructor Create(newNum, newScore, newRand: integer);
-    class function Cmp_score(constref a, b: TPlayer): integer; static;
-    class function Cmp_num(constref a, b: TPlayer): integer; static;
+    class function Cmp_score(const a, b: TPlayer): integer; static;
+    class function Cmp_num(const a, b: TPlayer): integer; static;
   end;
 
   TArr_TPlayer = array of TPlayer;
@@ -82,7 +82,7 @@ begin
   Self.rand := newRand;
 end;
 
-class function TPlayer.Cmp_num(constref a, b: TPlayer): integer;
+class function TPlayer.Cmp_num(const a, b: TPlayer): integer;
 var
   res: integer;
 begin
@@ -96,7 +96,7 @@ begin
   Result := res;
 end;
 
-class function TPlayer.Cmp_score(constref a, b: TPlayer): integer;
+class function TPlayer.Cmp_score(const a, b: TPlayer): integer;
 var
   res: integer;
 begin
